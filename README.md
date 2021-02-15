@@ -2,8 +2,8 @@
 ![](img/logo.png)
 
 **Course Date:** 15.2.2021  
-**Name:**Necdet Mehmet  
-**Surname:**Güneş 
+**Name:** Necdet Mehmet  
+**Surname:** Güneş 
 **Email:** nmehmetgunes@gmail.com  
 
 ## Project Name
