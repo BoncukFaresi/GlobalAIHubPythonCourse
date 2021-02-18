@@ -6,10 +6,6 @@
 
 i=0
 liste=list()
-liste1=list()
-liste2=list()
-liste3=list()
-
 for q in range(2,100):
     blnb=0
     for c in range(1,q):
